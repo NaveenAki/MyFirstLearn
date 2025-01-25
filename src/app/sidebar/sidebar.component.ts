@@ -32,4 +32,3 @@ export class SidebarComponent implements OnInit {
         this.menuItems = ROUTES.filter(menuItem => menuItem);
     }
 }
-
